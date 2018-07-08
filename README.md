@@ -1,6 +1,7 @@
-#Git ½Ì³Ì
+#Git Tutorial
 
 - feature-A
 - fix-B
 - feature-C
+- feature-D
 
